@@ -20,6 +20,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="http://harshit-spec20.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F4B740?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/harshit-singh-27056a378/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
